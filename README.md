@@ -124,10 +124,8 @@ Pagina estatica creada
 
 Aun no me acostumbro al uso de git, hago las cosas muy lento, pero solo es cosa de usarlo mas para tener mas confianza ejecutando los comandos. Batalle mucho con la parte de la pagina en GitPages, me fue bastante complicado hacerlo con la guia de la pagina de hugo, termine viendo un video que se me hizo mucho mas facil de entender.
 
-Link pagina
-https://hectorvasquez1931.github.io/Practica0/
+[Link GitHub](https://github.com/HectorVasquez1931/Practica0/)
 
-Link GitHub
-https://github.com/HectorVasquez1931/Practica0/
+[Link pagina](https://hectorvasquez1931.github.io/Practica0/)
 
 
