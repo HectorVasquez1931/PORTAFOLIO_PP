@@ -4,7 +4,7 @@
 **Alumno:** Hector Alfredo Vasquez Carpio  
 **Profesor:** Carlos Gallegos  
 **Fecha:** 10/09/2025  
-**Materia:** Prácticas  
+**Materia:** Paradigmas de la programacion 
 
 ---
 
@@ -34,7 +34,7 @@ Markdown se utiliza principalmente en **documentación de proyectos** y archivos
 
 #### Ejercicios en clase  
 
-En clase practicamos con diferentes elementos de Markdown. A continuación, se muestra el código que realizamos:  
+En clase practicamos con diferentes elementos de Markdown. A continuación el código que realizamos:  
 
 ```md
 <!-- Comentario -->
@@ -122,6 +122,12 @@ Pagina estatica creada
 
 ### Conclusiones
 
-Aun no me acostumbro al uso de git, hago las cosas muy lento, pero solo es cosa de usarlo mas para tener mas confianza ejecutando los comandos. No pude hacer la parte de GitPages, en el punto donde me deberia salir el workflow corriendo no me salia nada, al final hice un desastre con mi repositorio y cree uno nuevo.
+Aun no me acostumbro al uso de git, hago las cosas muy lento, pero solo es cosa de usarlo mas para tener mas confianza ejecutando los comandos. Batalle mucho con la parte de la pagina en GitPages, me fue bastante complicado hacerlo con la guia de la pagina de hugo, termine viendo un video que se me hizo mucho mas facil de entender.
 
-La pagina estatica usando HUGO si la pude crear, le agregue el texto modificado con markdown para que contenga algo.
+Link pagina
+https://hectorvasquez1931.github.io/Practica0/
+
+Link GitHub
+https://github.com/HectorVasquez1931/Practica0/
+
+
